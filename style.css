@@ -1,0 +1,33 @@
+body{
+  background: rgb(230, 204, 255);
+}
+
+h1,h2,h3{
+  font-style: italic;
+  color:blueviolet;
+}
+
+h1{
+  text-align: center;
+  text-decoration: underline;
+}
+
+p{
+  font-family: cursive;
+  font-size:28;
+}
+
+img{
+  border-radius: 20px;
+  border-color: blueviolet;
+  border-style: double;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+
+.nav
+{
+  text-align:center;
+}
